@@ -1,7 +1,5 @@
 ![Thumbnails GitHub](https://user-images.githubusercontent.com/9091491/123842348-0e116c80-d8e7-11eb-8618-9c15cc743335.png)
 
-![](https://img.shields.io/github/license/nataliakt/alura-react-native-comecando-do-zero)
-
 # ⚛️ React Native: Começando do Zero
 
 Esse é o projeto do curso **Começando do Zero** da formação em **React Native** na [Alura](https://www.alura.com.br/).
@@ -44,19 +42,6 @@ Se quiser testar as instalações, rodar os comandos abaixo separadamente deve m
 git --version
 node --version
 npm --version
-```
-
-Com o `node` instalado podemos criar um projeto `expo` com o seguinte comando:
-```
-npx create-expo-app react-native-comecando-do-zero
-```
-
-### 🐙 Clonando o projeto
-
-Para ter acesso aos arquivos do projeto você pode clonar usando o seguinte comando:
-
-```
-git clone https://github.com/alura-cursos/react-native-comecando-do-zero.git
 ```
 
 ### ▶️ Rodando o Projeto
